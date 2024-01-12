@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(19, 105, 32);
+}
+
+.active {
+    background-color: red;
+    color: blue;
+}
+
+.sportz{
+    color:coral;
+}
